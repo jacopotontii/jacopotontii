@@ -1,15 +1,17 @@
-<img src="./jacopo-header-v2.svg" width="100%" alt="Jacopo Tonti. Designer working across product thinking, visual identity and interaction." />
+<h1 align="right">Jacopo Tonti</h1>
 
 ### Hey, I'm Jacopo.
 
 I turn ideas into digital products, working across **product thinking, visual identity and interaction**. I use AI to build, test and keep refining what starts as a sketch.
 
-I'm drawn to interfaces with character: strong typography, motion that feels right, and small details that make the whole thing click. For me, the work isn't finished at the mockup — I want to see it working.
+I'm drawn to interfaces with character: strong typography, motion that feels right, and small details that make the whole thing click.
 
 <br />
 
-<a href="https://solarrr.app"><img src="./solarrr-cinematic-v2.svg" width="100%" alt="Explore Solarrr — The Truth Engine. A clearer way to read the news. Visit solarrr.app." /></a>
+<a href="https://solarrr.app"><img src="./solarrr-banner-v1-rounded.svg" width="100%" alt="Explore Solarrr. The Truth Engine. A brighter way to read the news. Visit solarrr.app." /></a>
 
-I'm currently working on **Solarrr**, exploring a clearer way to read the news — and putting that mix of design, technology and attention to detail into practice.
+<h3 align="center">A brighter way to read the news.</h3>
 
-[Visit solarrr.app ↗](https://solarrr.app)
+<p align="center">Currently building <strong>Solarrr</strong>, bringing together product design,<br />technology and attention to detail.</p>
+
+<p align="center"><a href="https://solarrr.app">Explore Solarrr ↗</a></p>
