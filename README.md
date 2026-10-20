@@ -10,7 +10,7 @@ I turn ideas into digital products, working across **product thinking, visual id
 
 <h3 align="center">A brighter way to read the news.</h3>
 
-<p align="center">Currently building <strong>Solarrr</strong>, bringing together product design,<br />technology real world problems</p>
+<p align="center">Currently building <strong>Solarrr</strong>, bringing together product design,<br />technology and real world problems</p>
 
 <p align="center"><a href="https://solarrr.app">Explore Solarrr ↗</a></p>
 
