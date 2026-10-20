@@ -1,18 +1,18 @@
 <h1 align="right">Jacopo Tonti</h1>
 
-### I'm Jacopo
+**### I'm Jacopo**
 
 I turn ideas into digital products, working across **product thinking, visual identity and interaction**. I use AI to build, test and keep refining what starts as a sketch. I'm drawn to interfaces with character: strong typography, motion that feels right, and small details that make the whole thing click.
 
 <br />
 
-<a href="https://github.com/jacopotontii/solarrr"><img src="./solarrr-banner-halation-rounded.svg" width="100%" alt="Explore SOLARRR. The Truth Engine. A brighter way to read the news." /></a>
+<a href="https://github.com/jacopotontii/solarrr"><img src="./solarrr-banner-halation-rounded.svg" width="100%" alt="Explore solarrr. The Truth Engine. A brighter way to read the news." /></a>
 
 <h3 align="center">A brighter way to read the news.</h3>
 
 <p align="center">Currently building <strong>SOLARRR</strong>, bringing together product design,<br />technology and real world problems</p>
 
-<p align="center"><a href="https://github.com/jacopotontii/solarrr">Explore SOLARRR ↗</a> &nbsp;·&nbsp; <a href="https://solarrr.app">Visit solarrr.app ↗</a></p>
+<p align="center"><a href="https://github.com/jacopotontii/solarrr">Explore solarrr ↗</a> &nbsp;·&nbsp; <a href="https://solarrr.app">Visit solarrr.app ↗</a></p>
 
 <br />
 
@@ -20,6 +20,6 @@ I turn ideas into digital products, working across **product thinking, visual id
 
 <h3 align="center">Partner &amp; Head of Tech</h3>
 
-<p align="center">At <strong>Materia Studios</strong>, I lead the technical direction,<br />from early exploration to development.</p>
+<p align="center">At <strong>Materia Labs</strong>, I help shape the tech and bring ideas to life,<br />from first sketch to launch.</p>
 
 <p align="center"><a href="https://materiastudios.it/labs">Explore Materia Labs ↗</a></p>
