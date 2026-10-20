@@ -6,13 +6,13 @@ I turn ideas into digital products, working across **product thinking, visual id
 
 <br />
 
-<a href="https://solarrr.app"><img src="./solarrr-banner-halation-rounded.svg" width="100%" alt="Explore Solarrr. The Truth Engine. A brighter way to read the news. Visit solarrr.app." /></a>
+<a href="https://github.com/jacopotontii/solarrr-showcase"><img src="./solarrr-banner-halation-rounded.svg" width="100%" alt="Explore SOLARRR. The Truth Engine. A brighter way to read the news." /></a>
 
 <h3 align="center">A brighter way to read the news.</h3>
 
-<p align="center">Currently building <strong>Solarrr</strong>, bringing together product design,<br />technology and real world problems</p>
+<p align="center">Currently building <strong>SOLARRR</strong>, bringing together product design,<br />technology and real world problems</p>
 
-<p align="center"><a href="https://solarrr.app">Explore Solarrr ↗</a></p>
+<p align="center"><a href="https://github.com/jacopotontii/solarrr-showcase">Explore SOLARRR ↗</a> &nbsp;·&nbsp; <a href="https://solarrr.app">Visit solarrr.app ↗</a></p>
 
 <br />
 
