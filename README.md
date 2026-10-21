@@ -21,3 +21,9 @@ Designer and technologist, Partner & Head of Tech at **Materia Labs**, from firs
 <p align="center">At <strong>Materia Labs</strong>, I help shape the tech and bring ideas to life,<br />from first sketch to launch.</p>
 
 <p align="center"><a href="https://materiastudios.it/labs">Explore Materia Labs ↗</a></p>
+
+<br />
+
+<p align="center">Now: shipping SOLARRR · Comunicazione d'impresa at IULM, year 3 · Milan</p>
+
+<p align="center"><a href="https://www.instagram.com/jacopotontii/">Instagram ↗</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/jacopo-tonti-a7a208332/">LinkedIn ↗</a></p>
