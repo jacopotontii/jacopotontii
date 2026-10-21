@@ -1,6 +1,6 @@
 <h1 align="right">Jacopo Tonti</h1>
 
-**### I'm Jacopo**
+**I'm Jacopo**
 
 I turn ideas into digital products, working across **product thinking, visual identity and interaction**. I use AI to build, test and keep refining what starts as a sketch. I'm drawn to interfaces with character: strong typography, motion that feels right, and small details that make the whole thing click.
 
